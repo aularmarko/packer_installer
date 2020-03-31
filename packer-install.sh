@@ -2,14 +2,6 @@
 
 set -e
 
-# PACKER INSTALLER - Automated Packer Installation
-#   Apache 2 License - Copyright (c) 2019  Robert Peteuil  @RobertPeteuil
-#
-#     Automatically Download, Extract and Install
-#        Latest or Specific Version of Packer
-#
-#   from: https://github.com/robertpeteuil/packer-installer
-
 # Uncomment line below to always use 'sudo' to install to /usr/local/bin/
 # sudoInstall=true
 
