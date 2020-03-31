@@ -2,9 +2,6 @@
 
 ## Automatically Download, Extract and Install Latest or Specific Version
 
-[![release](https://img.shields.io/github/release/robertpeteuil/packer-installer.svg?colorB=2067b8)](https://github.com/robertpeteuil/packer-installer)
-[![bash](https://img.shields.io/badge/language-bash-89e051.svg?style=flat-square)](https://github.com/robertpeteuil/packer-installer)
-[![license](https://img.shields.io/github/license/robertpeteuil/packer-installer.svg?colorB=2067b8)](https://github.com/robertpeteuil/packer-installer)
 
 ---
 
